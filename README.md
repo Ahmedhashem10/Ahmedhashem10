@@ -1,7 +1,7 @@
 # ⚡ Hi there I'm Ahmed Hashem 👋
 
 <div align="center">
-<img src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" width="400px"/>
+<img src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" width="800px"/>
 </div>
 
 <br>
